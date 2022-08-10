@@ -1,5 +1,7 @@
 [workspace]
 members = [
     # Problems
-    "add",
+    "01-add",
+    "02-combinations",
+    "03-conway",
 ]
